@@ -1,0 +1,12 @@
+.pytest_cache/
+.vscode/
+.venv/
+*.build/
+*.dist/
+__pycache__
+TODO.md
+
+# Just for now
+build.py
+
+poetry.lock
